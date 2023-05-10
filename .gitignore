@@ -1,1 +1,2 @@
-Config.plist
+*.plist
+.DS_STORE
